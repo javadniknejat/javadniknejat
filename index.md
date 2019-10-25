@@ -1,3 +1,5 @@
+tittle: Wellcome to my github page
+description: informatic page
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/javadniknejat/javadniknejat/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
